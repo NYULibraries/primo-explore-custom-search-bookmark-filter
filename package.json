@@ -1,0 +1,22 @@
+{
+  "name": "primo-explore-custom-search-bookmark-filter",
+  "version": "1.0.0",
+  "description": "Override the default options in the search bookmark filter menu for the primo-explore UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyulibraries/primo-explore-custom-search-bookmark-filter.git"
+  },
+  "keywords": [
+    "primo-explore"
+  ],
+  "author": "Barnaby Alter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyulibraries/primo-explore-custom-search-bookmark-filter/issues"
+  },
+  "homepage": "https://github.com/nyulibraries/primo-explore-custom-search-bookmark-filter#readme"
+}
