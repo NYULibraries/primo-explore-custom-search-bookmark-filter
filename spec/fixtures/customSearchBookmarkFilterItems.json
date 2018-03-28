@@ -1,0 +1,12 @@
+[
+  {
+    "cssClasses": "button-over-dark",
+    "name": "My e-Shelf",
+    "description": "Go to {nui.menu.librarycard}",
+    "action": "https://eshelf.library.edu",
+    "icon": {
+      "set": "image",
+      "icon": "ic_collections_bookmark_24px"
+    }
+  }
+]
