@@ -8,5 +8,15 @@
       "set": "image",
       "icon": "ic_collections_bookmark_24px"
     }
+  },
+  {
+    "cssClasses": "button-over-dark",
+    "name": "My second button",
+    "description": "Go to {nui.menu.secondButton}",
+    "action": "https://second-button.library.edu",
+    "icon": {
+      "set": "image",
+      "icon": "ic_collections_bookmark_24px"
+    }
   }
 ]
