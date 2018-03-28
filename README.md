@@ -1,5 +1,8 @@
 # primo-explore-custom-search-bookmark-filter
 
+[![Build Status](https://travis-ci.org/NYULibraries/primo-explore-custom-search-bookmark-filter.svg?branch=master)](https://travis-ci.org/NYULibraries/primo-explore-custom-search-bookmark-filter)
+[![npm version](https://img.shields.io/npm/v/primo-explore-custom-search-bookmark-filter.svg)](https://www.npmjs.com/package/primo-explore-custom-search-bookmark-filter)
+
 ## Description
 
 Override the default options in the search bookmark filter menu for the primo-explore UI.
