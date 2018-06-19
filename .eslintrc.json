@@ -13,10 +13,11 @@
     "angular": false,
     "module": false,
     "inject": false,
-    "window": false,
+    "window": false
   },
   "env": {
-    "jasmine": true
+    "jasmine": true,
+    "node": true
   },
   "plugins": [
     "angular"
