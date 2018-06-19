@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/NYULibraries/primo-explore-custom-search-bookmark-filter.svg?branch=master)](https://travis-ci.org/NYULibraries/primo-explore-custom-search-bookmark-filter)
 [![npm version](https://img.shields.io/npm/v/primo-explore-custom-search-bookmark-filter.svg)](https://www.npmjs.com/package/primo-explore-custom-search-bookmark-filter)
+[![Coverage Status](https://coveralls.io/repos/github/NYULibraries/primo-explore-custom-search-bookmark-filter/badge.svg?branch=master)](https://coveralls.io/github/NYULibraries/primo-explore-custom-search-bookmark-filter?branch=master)
 
 ## Description
 
