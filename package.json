@@ -2,7 +2,7 @@
   "name": "primo-explore-custom-search-bookmark-filter",
   "version": "1.0.6",
   "description": "Override the default options in the search bookmark filter menu for the primo-explore UI.",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nyulibraries/primo-explore-custom-search-bookmark-filter.git"
