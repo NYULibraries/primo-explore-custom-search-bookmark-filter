@@ -38,6 +38,9 @@ describe('customSearchBookmarkFilterController', () => {
     it('should translate text within curly braces', () => {
       expect($scope.translate('My {CONFIG_VALUE} value')).toEqual("My CONFIG_VALUE! value");
     });
+    it('should translate multiple curly braces', () => {
+      expect($scope.translate('My {CONFIG_VALUE} value {CONFIG_VALUE}')).toEqual("My CONFIG_VALUE! value CONFIG_VALUE!");
+    });
   });
 
 
