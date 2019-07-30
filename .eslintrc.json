@@ -12,8 +12,7 @@
     "__fixtures__": false,
     "angular": false,
     "module": false,
-    "inject": false,
-    "window": false
+    "inject": false
   },
   "env": {
     "jasmine": true,

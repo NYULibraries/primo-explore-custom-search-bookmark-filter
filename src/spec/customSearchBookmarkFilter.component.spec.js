@@ -1,9 +1,6 @@
-describe('customSearchBookmarkFilter component', () => {
-  let customSearchBookmarkFilterItems;
-  beforeEach(() => {
-    customSearchBookmarkFilterItems = __fixtures__['customSearchBookmarkFilterItems'];
-  });
+import customSearchBookmarkFilterItems from './fixtures/customSearchBookmarkFilterItems';
 
+describe('customSearchBookmarkFilter component', () => {
   beforeEach(module('customSearchBookmarkFilter', ($provide) => {
     $provide.constant("customSearchBookmarkFilterItems", customSearchBookmarkFilterItems);
     $provide.value("translateFilter", (original) => original);

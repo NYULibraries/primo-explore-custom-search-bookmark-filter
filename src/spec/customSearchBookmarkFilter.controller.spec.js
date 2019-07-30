@@ -1,10 +1,6 @@
+import customSearchBookmarkFilterItems from './fixtures/customSearchBookmarkFilterItems';
+
 describe('customSearchBookmarkFilterController', () => {
-
-  let customSearchBookmarkFilterItems;
-  beforeEach(() => {
-    customSearchBookmarkFilterItems = __fixtures__['customSearchBookmarkFilterItems'];
-  });
-
   let $componentController, $scope;
   let controller;
 
