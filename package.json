@@ -44,6 +44,6 @@
     "test:chrome-debugger": "yarn karma start --browsers=Chrome --single-run=false --debug",
     "build": "webpack --mode=production",
     "prepare": "rimraf dist/* && yarn build",
-    "publish-dry-run": "yarn prepare && yarn pack --filename primo-explore-custom-no-search-results.tgz"
+    "publish-dry-run": "yarn prepare && yarn pack --filename primo-explore-custom-search-bookmark-filter.tgz"
   }
 }
